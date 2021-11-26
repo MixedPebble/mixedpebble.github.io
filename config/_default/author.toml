@@ -1,8 +1,8 @@
-name = "Razon Yang"
+name = "Daniel Jackson"
 # avatar = "images/profile.png" # Avatar image. Default to "images/profile.webp".
-bio = "Gopher, PHPer, Full Stack Engineer."
+bio = "Java, JavaScript, Full Stack Engineer, Economist"
 company = "Company"
-location = "Earth"
+location = "NY"
 # alternatives:
 # location = "<a href='https://www.openstreetmap.org/search?query=Earth'>Earth</a>"
 # location = "<a href='https://www.google.com/maps/search/Earth'>Earth</a>"
