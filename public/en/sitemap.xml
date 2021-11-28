@@ -2,7 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/en/categories/</loc>
+    <loc>/</loc>
+    <lastmod>2021-11-27T21:02:52-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="/zh-tw/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="/zh-cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+  </url><url>
+    <loc>/posts/new-post/</loc>
+    <lastmod>2021-11-27T21:02:52-05:00</lastmod>
+  </url><url>
+    <loc>/posts/</loc>
+    <lastmod>2021-11-27T21:02:52-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="/zh-tw/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="/zh-cn/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/posts/"
+                />
+  </url><url>
+    <loc>/categories/</loc>
     <lastmod>2021-09-01T11:36:50+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -22,39 +71,16 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/categories/"
+                href="/categories/"
                 />
   </url><url>
-    <loc>/en/tags/diagram/</loc>
+    <loc>/tags/diagram/</loc>
     <lastmod>2021-09-01T11:36:50+08:00</lastmod>
   </url><url>
-    <loc>/en/posts/diagram/</loc>
+    <loc>/posts_default/diagram/</loc>
     <lastmod>2021-09-01T11:36:50+08:00</lastmod>
   </url><url>
-    <loc>/en/</loc>
-    <lastmod>2021-09-01T11:36:50+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="/zh-tw/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="/zh-cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/en/"
-                />
-  </url><url>
-    <loc>/en/series/manual/</loc>
+    <loc>/series/manual/</loc>
     <lastmod>2021-09-01T11:36:50+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -69,36 +95,36 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/series/manual/"
+                href="/series/manual/"
                 />
   </url><url>
-    <loc>/en/categories/markdown/</loc>
+    <loc>/categories/markdown/</loc>
     <lastmod>2021-09-01T11:36:50+08:00</lastmod>
   </url><url>
-    <loc>/en/posts/</loc>
+    <loc>/posts_default/</loc>
     <lastmod>2021-09-01T11:36:50+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/posts/"
+                href="/fr/posts_default/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="/zh-tw/posts/"
+                href="/zh-tw/posts_default/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/zh-cn/posts/"
+                href="/zh-cn/posts_default/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/posts/"
+                href="/posts_default/"
                 />
   </url><url>
-    <loc>/en/series/</loc>
+    <loc>/series/</loc>
     <lastmod>2021-09-01T11:36:50+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -118,10 +144,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/series/"
+                href="/series/"
                 />
   </url><url>
-    <loc>/en/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2021-09-01T11:36:50+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -141,16 +167,16 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/"
+                href="/tags/"
                 />
   </url><url>
-    <loc>/en/tags/image/</loc>
+    <loc>/tags/image/</loc>
     <lastmod>2021-08-15T14:19:06+08:00</lastmod>
   </url><url>
-    <loc>/en/posts/image-processing/</loc>
+    <loc>/posts_default/image-processing/</loc>
     <lastmod>2021-08-15T14:19:06+08:00</lastmod>
   </url><url>
-    <loc>/en/tags/css/</loc>
+    <loc>/tags/css/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -170,10 +196,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/css/"
+                href="/tags/css/"
                 />
   </url><url>
-    <loc>/en/tags/html/</loc>
+    <loc>/tags/html/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -193,10 +219,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/html/"
+                href="/tags/html/"
                 />
   </url><url>
-    <loc>/en/tags/markdown/</loc>
+    <loc>/tags/markdown/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
@@ -216,114 +242,114 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/tags/markdown/"
+                href="/tags/markdown/"
                 />
   </url><url>
-    <loc>/en/posts/markdown-syntax/</loc>
+    <loc>/posts_default/markdown-syntax/</loc>
     <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/fr/posts/markdown-syntax/"
+                href="/fr/posts_default/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="/zh-tw/posts/markdown-syntax/"
+                href="/zh-tw/posts_default/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/zh-cn/posts/markdown-syntax/"
+                href="/zh-cn/posts_default/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/posts/markdown-syntax/"
+                href="/posts_default/markdown-syntax/"
                 />
   </url><url>
-    <loc>/en/tags/alert/</loc>
+    <loc>/tags/alert/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/posts/shortcodes/alert/</loc>
+    <loc>/posts_default/shortcodes/alert/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/tags/bilibili/</loc>
+    <loc>/tags/bilibili/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/tags/codepen/</loc>
+    <loc>/tags/codepen/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/tags/iqiyi/</loc>
+    <loc>/tags/iqiyi/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/tags/jsfiddle/</loc>
+    <loc>/tags/jsfiddle/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/tags/jsrun/</loc>
+    <loc>/tags/jsrun/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/posts/shortcodes/media/</loc>
+    <loc>/posts_default/shortcodes/media/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/tags/netease-music/</loc>
+    <loc>/tags/netease-music/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/posts/shortcodes/online-ide/</loc>
+    <loc>/posts_default/shortcodes/online-ide/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/categories/shortcode/</loc>
+    <loc>/categories/shortcode/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/posts/shortcodes/</loc>
+    <loc>/posts_default/shortcodes/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/tags/tencent/</loc>
+    <loc>/tags/tencent/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/tags/youku/</loc>
+    <loc>/tags/youku/</loc>
     <lastmod>2020-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/tags/instagram/</loc>
+    <loc>/tags/instagram/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/tags/privacy/</loc>
+    <loc>/tags/privacy/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/posts/rich-content/</loc>
+    <loc>/posts_default/rich-content/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/tags/twitter/</loc>
+    <loc>/tags/twitter/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/tags/vimeo/</loc>
+    <loc>/tags/vimeo/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/tags/youtube/</loc>
+    <loc>/tags/youtube/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/posts/placeholder-text/</loc>
+    <loc>/posts_default/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/tags/text/</loc>
+    <loc>/tags/text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/tags/math/</loc>
+    <loc>/tags/math/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/posts/math-typesetting/</loc>
+    <loc>/posts_default/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/tags/emoji/</loc>
+    <loc>/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/posts/emoji-support/</loc>
+    <loc>/posts_default/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/en/archives/</loc>
+    <loc>/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -342,10 +368,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/archives/"
+                href="/archives/"
                 />
   </url><url>
-    <loc>/en/contact/</loc>
+    <loc>/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
@@ -359,10 +385,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/contact/"
+                href="/contact/"
                 />
   </url><url>
-    <loc>/en/offline/</loc>
+    <loc>/offline/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
@@ -376,10 +402,10 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/offline/"
+                href="/offline/"
                 />
   </url><url>
-    <loc>/en/search/</loc>
+    <loc>/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
@@ -398,7 +424,7 @@
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/en/search/"
+                href="/search/"
                 />
   </url>
 </urlset>
