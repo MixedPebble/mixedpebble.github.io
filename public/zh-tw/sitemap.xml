@@ -2,54 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/zh-tw/tags/css/</loc>
-    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/css/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tags/css/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="/zh-cn/tags/css/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="/zh-tw/tags/css/"
-                />
-  </url><url>
-    <loc>/zh-tw/tags/html/</loc>
-    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/html/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tags/html/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="/zh-cn/tags/html/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="/zh-tw/tags/html/"
-                />
-  </url><url>
     <loc>/zh-tw/</loc>
-    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -69,139 +22,6 @@
                 rel="alternate"
                 hreflang="zh-tw"
                 href="/zh-tw/"
-                />
-  </url><url>
-    <loc>/zh-tw/series/manual/</loc>
-    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/series/manual/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="/zh-cn/series/manual/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="/zh-tw/series/manual/"
-                />
-  </url><url>
-    <loc>/zh-tw/tags/markdown/</loc>
-    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tags/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="/zh-cn/tags/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="/zh-tw/tags/markdown/"
-                />
-  </url><url>
-    <loc>/zh-tw/posts_default/markdown-syntax/</loc>
-    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/posts_default/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/posts_default/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="/zh-cn/posts_default/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="/zh-tw/posts_default/markdown-syntax/"
-                />
-  </url><url>
-    <loc>/zh-tw/posts_default/</loc>
-    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/posts_default/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/posts_default/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="/zh-cn/posts_default/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="/zh-tw/posts_default/"
-                />
-  </url><url>
-    <loc>/zh-tw/series/</loc>
-    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="/zh-cn/series/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="/zh-tw/series/"
-                />
-  </url><url>
-    <loc>/zh-tw/tags/</loc>
-    <lastmod>2020-11-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="/zh-cn/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="/zh-tw/tags/"
                 />
   </url><url>
     <loc>/zh-tw/offline/</loc>
@@ -241,6 +61,28 @@
                 rel="alternate"
                 hreflang="zh-tw"
                 href="/zh-tw/categories/"
+                />
+  </url><url>
+    <loc>/zh-tw/series/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="/zh-cn/series/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="/zh-tw/series/"
                 />
   </url><url>
     <loc>/zh-tw/search/</loc>
@@ -285,6 +127,28 @@
                 rel="alternate"
                 hreflang="zh-tw"
                 href="/zh-tw/posts/"
+                />
+  </url><url>
+    <loc>/zh-tw/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="/zh-cn/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-tw"
+                href="/zh-tw/tags/"
                 />
   </url><url>
     <loc>/zh-tw/archives/</loc>

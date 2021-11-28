@@ -10,8 +10,8 @@ metaRobots = "noindex, nofollow" # Default value for Meta Tag "robots"
 # metaRobots = "" # disable Meta Tag "robots"
 
 # logo = "images/logo.png" # Logo image. Default to "images/logo.webp".
-# logo = false # Disable Logo
-brand = "BOOTSTRAP"
+logo = false # Disable Logo
+brand = "IdeaSpork"
 
 palette = "blue" # Default palette. Optional.
 # palettes = ["blue", "blue gray", "brown"] # Available palettes. Default to ALL.
