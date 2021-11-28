@@ -1,5 +1,5 @@
 +++
-# title = "About"
+title = "About"
 description = "Hugo, the world's fastest framework for building websites"
 date = "2019-02-28"
 aliases = ["about-us", "about-hugo"]
@@ -8,7 +8,7 @@ reward = false
 postDate = false
 readingTime = false
 +++
-# [Hello There](https://www.youtube.com/watch?v=eaEMSKzqGAg)
+## [Hello There](https://www.youtube.com/watch?v=eaEMSKzqGAg)
 
 Hi, my name is Daniel Jackson. I live in New York and am a software engineer by trade. This blog is a fun and constructive way to get my thoughts in order and reinforce what I have and am learning.
 
