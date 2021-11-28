@@ -172,22 +172,5 @@
                 hreflang="zh-tw"
                 href="/zh-tw/archives/"
                 />
-  </url><url>
-    <loc>/zh-tw/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="/zh-cn/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="/zh-tw/contact/"
-                />
   </url>
 </urlset>

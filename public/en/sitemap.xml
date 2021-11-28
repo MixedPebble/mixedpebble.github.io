@@ -98,23 +98,6 @@
                 href="/categories/"
                 />
   </url><url>
-    <loc>/contact/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-tw"
-                href="/zh-tw/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="/zh-cn/contact/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/contact/"
-                />
-  </url><url>
     <loc>/offline/</loc>
     <xhtml:link
                 rel="alternate"
