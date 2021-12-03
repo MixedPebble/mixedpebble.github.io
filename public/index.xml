@@ -2,40 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo Bootstrap</title>
-    <link>/</link>
+    <link>/yeet/</link>
     <description>Recent content on Hugo Bootstrap</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2016-{year} Daniel Jackson. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 27 Nov 2021 21:02:52 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Nov 2021 21:02:52 -0500</lastBuildDate><atom:link href="/yeet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>New Post</title>
-      <link>/posts/new-post/</link>
+      <link>/yeet/posts/new-post/</link>
       <pubDate>Sat, 27 Nov 2021 21:02:52 -0500</pubDate>
       
-      <guid>/posts/new-post/</guid>
+      <guid>/yeet/posts/new-post/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>/yeet/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>/about/</guid>
-      <description>Hello There    My name is Daniel Jackson
-  I am a software engineer with an interest in economics
-  Writing blog to reinforce what I learn.
-  Studied Computer Science and Applied Math Economics
-  The point of this blog is for self-betterment, not advertisement so I&amp;rsquo;ll leave the about me section at this. Feel free to reach out to me on Github or email   Shotout to the creator of the Hugo Theme used as a template for this blog, Razon Yang .</description>
+      <guid>/yeet/about/</guid>
+      <description>Hello There  Hi, my name is Daniel Jackson. I live in New York and am a software engineer by trade. This blog is a fun and constructive way to get my thoughts in order and reinforce what I have and am learning.
+Since this is for self-betterment and not self-advertisement, I&amp;rsquo;ll keep this short. I studied Computer Science and Applied Math Economics which is what most posts will be on.</description>
     </item>
     
     <item>
       <title>Offline</title>
-      <link>/offline/</link>
+      <link>/yeet/offline/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/offline/</guid>
+      <guid>/yeet/offline/</guid>
       <description></description>
     </item>
     
