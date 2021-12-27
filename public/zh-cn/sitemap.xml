@@ -2,175 +2,175 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/yeet/zh-cn/</loc>
+    <loc>/zh-cn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/yeet/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/yeet/fr/"
+                href="/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="/yeet/zh-tw/"
+                href="/zh-tw/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/yeet/zh-cn/"
+                href="/zh-cn/"
                 />
   </url><url>
-    <loc>/yeet/zh-cn/offline/</loc>
+    <loc>/zh-cn/offline/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/yeet/offline/"
+                href="/offline/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="/yeet/zh-tw/offline/"
+                href="/zh-tw/offline/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/yeet/zh-cn/offline/"
+                href="/zh-cn/offline/"
                 />
   </url><url>
-    <loc>/yeet/zh-cn/series/</loc>
+    <loc>/zh-cn/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/yeet/series/"
+                href="/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/yeet/fr/series/"
+                href="/fr/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="/yeet/zh-tw/series/"
+                href="/zh-tw/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/yeet/zh-cn/series/"
+                href="/zh-cn/series/"
                 />
   </url><url>
-    <loc>/yeet/zh-cn/categories/</loc>
+    <loc>/zh-cn/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/yeet/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/yeet/fr/categories/"
+                href="/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="/yeet/zh-tw/categories/"
+                href="/zh-tw/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/yeet/zh-cn/categories/"
+                href="/zh-cn/categories/"
                 />
   </url><url>
-    <loc>/yeet/zh-cn/archives/</loc>
+    <loc>/zh-cn/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/yeet/archives/"
+                href="/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/yeet/fr/archives/"
+                href="/fr/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="/yeet/zh-tw/archives/"
+                href="/zh-tw/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/yeet/zh-cn/archives/"
+                href="/zh-cn/archives/"
                 />
   </url><url>
-    <loc>/yeet/zh-cn/search/</loc>
+    <loc>/zh-cn/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/yeet/search/"
+                href="/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/yeet/fr/search/"
+                href="/fr/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="/yeet/zh-tw/search/"
+                href="/zh-tw/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/yeet/zh-cn/search/"
+                href="/zh-cn/search/"
                 />
   </url><url>
-    <loc>/yeet/zh-cn/posts/</loc>
+    <loc>/zh-cn/posts/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/yeet/posts/"
+                href="/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/yeet/fr/posts/"
+                href="/fr/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="/yeet/zh-tw/posts/"
+                href="/zh-tw/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/yeet/zh-cn/posts/"
+                href="/zh-cn/posts/"
                 />
   </url><url>
-    <loc>/yeet/zh-cn/tags/</loc>
+    <loc>/zh-cn/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="/yeet/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="/yeet/fr/tags/"
+                href="/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-tw"
-                href="/yeet/zh-tw/tags/"
+                href="/zh-tw/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="/yeet/zh-cn/tags/"
+                href="/zh-cn/tags/"
                 />
   </url>
 </urlset>

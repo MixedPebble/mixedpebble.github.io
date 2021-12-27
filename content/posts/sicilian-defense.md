@@ -11,6 +11,8 @@ draft: true
 - The basic idea is to hit d4 to prevent white from playing d4 and controlling the center
 
 
+{{< chessBoard "https://www.chess.com/emboard?id=8770147" >}}
+
 
 ## Common Variations
   - Look up most common responses after c5
@@ -37,6 +39,20 @@ draft: true
 - With the c pawn out, black is declaring his intentions to control space on the queen side. This does allow white to do the same on the king side.
 - Each side will attack where they have space. White on the king, black on the queen.
 - This style of opening is a black half-open defense. Half open games 
+- The normal e5 opening, opens up the bishop and queen while also setting up to castle the king. 
+  - c5 does none of that. Instead, it makes an attack from the flank. It only helps develop the queen.
+  - Nothing happens with the King side minor pieces, making black work for development.
+- Important: White's attack will be centered on king side. Black's attack will be centered on Queen side.
+- In most open sicilian variations, whites D pawn gets traded for blacks C spawn. 
+  - Regardless of the other moves leading up to this, imagine just those two pieces removed. Black is better off.
+  - This typically becomes relavent in the end game where black has more central pawns.
+
+
+- Because black isn't directly contesting the center, black will need to commit to several early pawn moves to solidify his defense. 
+  - Typically a combination of the a,d,e, and g pawn.
+- "If black manages to survive the opening and black plays properly and gets to trade off some pieces and gets into an endgame.
+  Black is going to be better because of his positional advantage of the central pawn majority"
+- 
 
 # To look into
 - What is the ideal center?
@@ -48,3 +64,4 @@ draft: true
 - https://www.chess.com/openings/Sicilian-Defense#starting-position
 - https://old.chesstempo.com/game-database.html (use to get percentages)
 - Winning Chess Openings by Bill Robertie
+- https://www.youtube.com/watch?v=impkeLfyyVM
