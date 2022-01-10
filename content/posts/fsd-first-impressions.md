@@ -5,68 +5,22 @@ draft: true
 ---
 
 
+In February 2021 I bought a Tesla Model 3 with the Full Self Driving (FSD) package in Portland, Oregon. In a single non-stop trip I traveled down the West Coast before arriving at my destination in Los Angeles, California, 15 hours later. The journey was nearly 1,000 miles long and driven almost exclusively by the FSD system. With the car driving itself, I was left with a great opportunity to take in the scenery and enjoy the car without needing to handle each and every curve in the road. The car effortlessly handled standard highway situations and always alerted me to potentially hazardous situations. I intervened 4 times to handle unsafe conditions that, in retrospect, the car would have handled safely enough. With those exceptions, the drive was fantastic. With the FSD system on, I could pay attention while not getting tired on such a long drive.
 
-- History
-  - February 2021 I bought my 2019 Tesla Model 3 with the Full Self Driving (FSD) package in Portland, Oregon
-  - In a single 15 hour, 1000 mile drive, I made my down route 5 to Los Angeles, California
-  - Nearly the entire journey was done entirely with the FSD package.
-  - I manually interveened four times due to unsafe conditions caused by other drivers
-  - In retrospect, the car probably would have handled these situations flawlessly but given my knowledge and experience at the time, it was more sensible to take over. 
-  - There was no need to risk lives and my car over mild curiosity and even now, I likely would take over in similiar situations to be on the safe side.
-  - With those exceptions, the drive was fantastic. Without any human intervention, the car drove itself the entire length of the drive, leaving me to enjoy the scenery.
+At the time of the journey, there were 2 levels of autonomous driving in Tesla vehicles, basic autopilot and Full Self Driving (FSD). Autopilot, as the name implies, keeps the vehicle safely in your lane and matches your speed to traffic. It doesn't do more than that so is best suited for highways. FSD is an optional software package that encompasses autopilot and much more. The FSD package is available for all recent Teslas and can automatically take the car through on-ramps and off-ramps, safely and autonomously change lanes to pass slow traffic and change lanes to allow faster vehicles to pass. Off highways, the FSD system identifies traffic lights and follows them properly while also being capable of backing into spots and parallel parking perfectly.
 
-- Difference between autopilot, FSD, FSD beta
-  - At the time of the journey, there were 2 levels of autonomous driving in Tesla vehicles, basic autopilot and Full Self Driving (FSD)
-  - Autopilot will, as the name implies, keep the vehicle safely in your lane and match your speed to traffic. It is best suited for highways.
-  - FSD does the same as autopilot and more
-    - Guides car from on-ramps to off-ramps, knowing which exits to take and what lane to be in
-    - Safely and autonomously change lanes to pass slow traffic
-    - Identifies traffic lights and follows them accordingly
-    - Automatic parking and parallel parking
-  - Contrary to the name, this system is very, very dependant on the driver.
-    - When encountering winding roads, it will often overturn, sometimes into the wrong lane, requiring the driver to take over immediately
-    - On roundabouts, it rarely works, often asking the user to take over immediately
-    - The FSD system will not even activate on private roads such as parking lots or driveways.
-    - It can't handle, parking lots, winding roads, right or left turns, and city streets
+Contrary to its name though, the FSD system is far from completely autonomous. When navigating winding roads or roundabouts, it often overturns and requests the driver to take over. On private roads such as parking lots or driveways, the FSD system can not be activated. Making turns at intersections or stop signs is not possible and city streets are a scary thought.
+
+The basic autopilot comes with every Tesla and while great, is hardly unique. Several car manufacturers offer basic autopilot in select vehicles and, believe it or not, has been around for nearly 30 years. A South Korean professor, Min-hong Han, created a working autopilot as early as 1993. Despite his prototype working on crowded highway roads, the project was defunded as the government saw no future for the technology, preferring to invest in heavy industry instead. This isn't to say that autopilot isn't a fantastic piece of technology, but there are other options available if this is a must-have feature.
     
+The FSD costs, at the time of writing, $10,00 to buy outright per vehicle, or $200/month through a subscription. This is hardly worth it as the navigation is only available on highways and straightaways. The other features available such as the summons & smart summon are more often used as gimmicks than anything else. The feature that may make it worth the price tag is the autosteering on city streets but unfortunately, that feature has been promised "within the year" for over a year now.
 
-- AutoPilot
-  - The basic autopilot comes with the vehicle and while it is great, it is hardly unique. Other brands already have their version of it and the technology for it has been around for nearly 30 years.
-  - The technology for basic autopilot was created in 1993 by a South Korean professor, Min-hong Han, https://www.youtube.com/watch?v=qlqM2KXbghU
-  - This isn't to say that it isn't great, but there are other brands one could consider if this is a key feature for them.
+In October 2021, a new beta version of the FSD package was introduced for a limited number of drivers and has gradually expanded to an estimated 10 to 15 thousand vehicles. Any driver with the FSD package can opt into the beta program and if accepted, will have access to the world's most advanced autonomous driving system in the world. To be accepted, the driver must drive at least 100 miles and achieve a 98% or higher safety rating. The safety rating system checks for hard turns, unsafe following distance, hard braking, forward collision warning, and if the autopilot/FSD is automatically disengaged due to driver negligence. All of this information is freely available to the driver on the Tesla application and can be opted out of at any time. While this beta program may be odd, it makes the FSD program well worth the money.
 
-- FSD
-  - The FSD costs, at the time of writing, $10,000 to buy outright per vehicle or $200/month through a subscription. 
-  - In my opinion, this is hardly worth it as the navigation is only available on highways.
-  - The summon & smart summon features are used more often as gimmicks
-  - The feature that may make it worth the price tag is the autosteering on city streets but unfortunately, that is unavailable and has been promised "within the year" for over a year now.
+Despite having the FSD beta for less than a month, the difference between the base FSD and the FSD beta is the difference between night and day. While the base FSD is limited to highways and straightaways, the FSD is capable of working almost anywhere where a road exists. The FSD beta is almost completely autonomous, capable of overcoming all the standard package's shortcomings. It can navigate from your driveway to almost any destination without any human interaction. It can handle parking lots, winding roads, right or left turns, and city streets with relative ease. 
 
-- FSD Beta
-  - In October 2021, a new beta version of the FSD package was introduced to a limited amount of drivers and has gradually expanded to an estimated 10-15 thousand vehicles
-  - The FSD beta can be opted into by anyone with the FSD package. 
-  - To be accepted into the beta program the driver must drive around for at least 100 miles in the past 30 days and have a 98/100 or better safety rating
-  - The driver is evaluated on hard turns, unsafe following distance, hard braking, forward collision warning, and how often autopilot is automatically disengaged
-  - this program makes the FSD package worth the price.
-  -  
+At the end of 2021, I made a 121-mile trek to Albany, NY. The FSD beta successfully drove the car from my driveway to the supercharger station near Colonie Mall without any human interaction. The trip took me through suburbs, highways, and city streets without incident. Whether it was winding backroads, right or left turns at stop signs, major intersections, and city streets, the car did them with ease. Any cause for concern proved unfounded as it knew to follow "Slow Down and Move Over laws at the site of accidents.
 
-- FSD Beta continued
-  - Only having had the FSD beta for less than a month, the difference between the base FSD and the FSD beta is the difference between night and day.
-  - While the base FSD is limited to straightaways, the FSD beta is almost completely autonomous, capable of accomplishing all of the shortcomings that the standard FSD 
-    - It can navigate from your driveway to almost any destination without any human interaction.
-    - It can handle, parking lots, winding roads, right or left turns, and city streets
-  - At the end of December, I made a 121-mile trek from my driveway to Albany, NY. 
-  - The FSD beta successfully drove the car from my driveway to the supercharger station near Colonie Mall without any human interaction.
-  - This trip included suburban roads, highways, and city driving.
-  - This trip had winding backroads, right and left turns at both stop signs and major intersections as well as city streets.
-  - Any cause for concern proved unfounded even in unexpected situations such as following  "Slow Down and Move Over" laws at the site of accidents
+While the FSD beta is far from perfect, it only requires occasional intervention and handles driving better than most people do. The list of items the FSD beta needs major improvement on is reminiscent of one you may give to an experienced yet overly cautious driver. It is certainly too cautious in certain situations but that should be preferred to the alternative for a car you are entrusting your life to.
 
-- FSD Beta continued
-  - While the FSD Beta is far from perfect, it only requires the driver to intervene occassionally and handles most situations very well.
-  - The list of items the FSD beta needs improvement is reminiscent of one you may give to a great yet overly cautious driver.
-  - The FSD beta perhaps too cautiously approaches turns at intersections, occasionally garnering honks from the next car.
-  - [Insert student driver sticker]
-
-- End thoughts
-  - Anyone considering the autopilot or the Full Self Driving Package and its beta variant may want to consider saving their money and sticking with the basic autopilot.
-  - While the FSD beta package is without question the most advanced autonomous driving system in the world, it does not warrant the $10,000 price tag for most drivers
-  - Instead, the recently introduced FSD subscription option is perfectly suited for most drivers to enjoy on road trips.
+Anyone debating on upgrading to the Full Self Driving Package may want to consider saving their money for now. While the FSD beta is without question the most advanced autonomous driving system in the world, it does not warrant the $10,00 price tag for most drivers. Instead, the recently introduced FSD subscription at $200/month is a better match for most drivers to enjoy on road trips.
