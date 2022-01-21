@@ -4,13 +4,14 @@ date: 2021-12-26T23:47:16-05:00
 draft: false
 images: [ "images/tesla_logo.png", "images/tesla_logo.png" ]
 tags: ["Tesla", "Review"]
+summary: "On a non-stop 15 hour trip, I drove from Portland, Oregon, to Los Angeles, California, in a recently purchased Tesla model 3. The journey was nearly 1,000 miles long and was piloted almost exclusively by the Full Self Driving (FSD) system. It effortlessly handled standard highway situations, keeping a safe distance from the car in front and overtaking traffic automatically when needed. I intervened four times to address unsafe conditions that, in retrospect, the car would have dealt with sufficiently. With those exceptions, the most work I had to do was navigate off highways to reach superchargers. Overall, it was a fantastic drive where I could pay attention to the road while relaxing, which, oddly enough, allowed me to stay alert despite such a long drive."
 ---
 
 ![img](images/tesla_fsd_banner.jpg)
 
 ## Journey
 
-On a non-stop 15 hour trip, I drove from Portland, Oregon, to Los Angeles, California, in a recently purchased Tesla model 3. The journey was nearly 1,000 miles long and was piloted almost exclusively by the Full Self Driving (FSD) system. It effortlessly handled standard highway situations, keeping a safe distance from the car in front and overtaking traffic automatically when needed. I intervened four times to address unsafe conditions that, in retrospect, the car would have dealt with sufficiently. With those exceptions, the most work I had to do was navigate off highways to reach superchargers. Overall, it was a fantastic drive where I could pay attention to the road while relaxing, which, oddly enough, allowed me to stay alert despite such a long drive.
+On a non-stop 15 hour trip, I drove from Portland, Oregon, to Los Angeles, California, in a recently purchased Tesla model 3. The journey was nearly 1,000 miles long and was piloted almost exclusively by the Full Self Driving (FSD) system. It effortlessly handled standard highway situations, keeping a safe distance from the car in front and overtaking traffic automatically when needed. I intervened four times to address unsafe conditions that, in retrospect, the car would have dealt with sufficiently. With those exceptions, the most work I did was navigating off highways to reach superchargers. Overall, it was a fantastic drive where I could pay attention to the road while relaxing, which, oddly enough, allowed me to stay alert despite such a long drive.
 
 ## Autopilot & Full Self Driving (FSD)
 
@@ -38,4 +39,4 @@ While the FSD beta is far from perfect, manual intervention is seldom required. 
 
 ## Final Thoughts
 
-Anyone debating on upgrading to the Full Self Driving Package may want to consider saving their money for now. While the FSD beta is without question the most advanced autonomous driving system globally, it does not warrant the $10,00 price tag for most drivers. Instead, the recently introduced FSD subscription at $200/month is a better match for most drivers to enjoy road trips.
+Anyone debating on upgrading to the Full Self Driving Package may want to consider saving their money for now. While the FSD beta is without question the most advanced autonomous driving system commercially available, it does not warrant the $10,00 price tag for most drivers. Instead, the recently introduced FSD subscription at $200/month is a better match for most drivers to enjoy road trips.
