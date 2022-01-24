@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright © 2016-{year} Daniel Jackson. All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 27 Nov 2021 21:02:52 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 Dec 2021 23:47:16 -0500</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Full Self Driving Review</title>
+      <link>/posts/fsd-first-impressions/</link>
+      <pubDate>Sun, 26 Dec 2021 23:47:16 -0500</pubDate>
+      
+      <guid>/posts/fsd-first-impressions/</guid>
+      <description>On a non-stop 15 hour trip, I drove from Portland, Oregon, to Los Angeles, California, in a recently purchased Tesla model 3. The journey was nearly 1,000 miles long and was piloted almost exclusively by the Full Self Driving (FSD) system. It effortlessly handled standard highway situations, keeping a safe distance from the car in front and overtaking traffic automatically when needed. I intervened four times to address unsafe conditions that, in retrospect, the car would have dealt with sufficiently. With those exceptions, the most work I had to do was navigate off highways to reach superchargers. Overall, it was a fantastic drive where I could pay attention to the road while relaxing, which, oddly enough, allowed me to stay alert despite such a long drive.</description>
+    </item>
+    
     <item>
       <title>New Post</title>
       <link>/posts/new-post/</link>
