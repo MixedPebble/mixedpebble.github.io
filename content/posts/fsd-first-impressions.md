@@ -1,5 +1,5 @@
 ---
-title: "Tesla Full Self Driving Impressions"
+title: "Full Self Driving Review"
 date: 2021-12-26T23:47:16-05:00
 draft: false
 images: [ "images/tesla_logo.png", "images/tesla_logo.png" ]
