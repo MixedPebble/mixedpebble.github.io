@@ -12,8 +12,8 @@ tags: ["chess"]
 - The basic idea is to hit d4 to prevent white from playing d4 and controlling the center
 
 
-<!-- {{< chessBoard "https://www.chess.com/emboard?id=8770147" "8770147">}} -->
-{{< chessBoard "https://www.chess.com/emboard?id=9494227" "9494227">}}
+{{< chessBoard "9494227">}}
+<!-- {{< chessBoard "8770147">}} -->
 
 
 

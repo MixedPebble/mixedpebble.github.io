@@ -1,27 +1,24 @@
-<!-- <iframe src="{{.Get 0}}" width="1088" height="637" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe> -->
-
+    <!--
+    How to use:
+    In the markdown file, add "{\{ chessBoard ID}\}" where ID is the chess.com board ID number. Remove the \ between the brackets. For some reason, Hugo tries to run comments. Seems like a bug in Hugo.
+    -->
 <iframe 
-    id="{{.Get 1}}" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="{{.Get 0}}" class="chessBoard">
+    id="{{.Get 0}}" allowtransparency="true" frameborder="0" style="width:100%;border:none;" src="https://www.chess.com/emboard?id={{.Get 0}}" class="chessBoard">
 </iframe>
 <script>
 
     window.addEventListener("message",e=>{
         var height = null
         if (
-        e['data'] &&
-        e['data']['id'] &&
-        document.getElementById(`${e['data']['id']}`)) {
-            height =`${e['data']['frameHeight']+30}px`
+            e['data'] &&
+            e['data']['id'] &&
+            document.getElementById(`${e['data']['id']}`)) {
+                height =`${e['data']['frameHeight']+30}px`
         }
 
         if (height != null) {
-        const boxes = document.querySelectorAll('.chessBoard');
-        
-        boxes.forEach(box => {
-            console.log(box.style)
-            box.style.backgroundColor = 'purple';
-            box.style.height = height;
-        });
+            const boxes = document.querySelectorAll('.chessBoard');
+            boxes.forEach(box => box.style.height = height)
         }
 
         
