@@ -1,7 +1,8 @@
 ---
 title: "The Sicilian Defense"
 date: 2021-12-06T00:54:11-05:00
-draft: true
+draft: false
+tags: ["chess"]
 ---
 
 # Template
@@ -11,7 +12,9 @@ draft: true
 - The basic idea is to hit d4 to prevent white from playing d4 and controlling the center
 
 
-{{< chessBoard "https://www.chess.com/emboard?id=8770147" >}}
+<!-- {{< chessBoard "https://www.chess.com/emboard?id=8770147" "8770147">}} -->
+{{< chessBoard "https://www.chess.com/emboard?id=9494227" "9494227">}}
+
 
 
 ## Common Variations
