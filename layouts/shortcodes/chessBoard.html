@@ -8,19 +8,11 @@
 <script>
 
     window.addEventListener("message",e=>{
-        var height = null
         if (
             e['data'] &&
             e['data']['id'] &&
             document.getElementById(`${e['data']['id']}`)) {
-                height =`${e['data']['frameHeight']+30}px`
+                document.getElementById(`${e['data']['id']}`).style.height=`${e['data']['frameHeight']+30}px`
         }
-
-        if (height != null) {
-            const boxes = document.querySelectorAll('.chessBoard');
-            boxes.forEach(box => box.style.height = height)
-        }
-
-        
         });
 </script>
